@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.MyCard {
+  display: flex;
+  margin-left: 56px;
+  margin-right: 56px;
+  justify-content: space-between;
+}
